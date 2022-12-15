@@ -1,0 +1,44 @@
+h1 {
+    font-family: Graduate;
+    text-align: center;
+    font-size: 20;
+}
+
+form {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto;
+    margin: 20px 20px;
+    padding: 20px 20px;
+    font-size: 17px;
+    font-family: Montserrat;
+}
+
+form div {
+    height: 100px;
+    width: 100%;
+}
+
+label {
+    display: block;
+    padding-left: 150px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+input#first-name, input#last-name, input#email, #select, input#message {
+    display: block;
+    padding-left: 150px;
+    font-family: Montserrat;
+    color: #f5d276;
+    background-color: #1f2122;
+    border: none;
+}
+
+.first-name, .last-name, .email, .message {
+
+}
+
+
+
+

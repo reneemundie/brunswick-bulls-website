@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "player": "Dylan",
+        "points": 15,
+        "pointsAverage": 18
+    },
+
+    {
+        "id": 2,
+        "player": "Andre",
+        "points": 29,
+        "pointsAverage": 26
+    },
+
+    {
+        "id": 3,
+        "player": "Liam",
+        "points": 9,
+        "pointsAverage": 7
+    },
+
+    {
+        "id": 4,
+        "player": "Ben",
+        "points": 7,
+        "pointsAverage": 4
+    },
+
+    {
+        "id": 5,
+        "player": "Tony",
+        "points": 12,
+        "pointsAverage": 8
+    },
+
+    {
+        "id": 6,
+        "player": "Liam",
+        "points": 9,
+        "pointsAverage": 7
+    },
+
+    {
+        "id": 7,
+        "player": "Gary",
+        "points": 17,
+        "pointsAverage": 15
+    },
+
+    {
+        "id": 8,
+        "player": "Caleb",
+        "points": 11,
+        "pointsAverage": 4
+    }
+]

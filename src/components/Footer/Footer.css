@@ -1,0 +1,95 @@
+.footer {
+    background-color: #242728;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+}
+
+#footer {
+    line-height: 1.9;
+    font-size: 17px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto 1fr auto;
+    max-height: 100vh;
+}
+
+ul {
+    padding-inline-start: 0;
+    list-style-type: none;
+}
+
+#phone-icon, #email-icon, #location-icon, #copyright-icon {
+    width: 16px;
+    height: 16px;
+}
+
+.policies li {
+    grid-column-start: 1;
+    justify-items: space-between;
+}
+
+.contact li {  
+    grid-column-start: 2;
+    justify-items: space-between;
+}
+
+h3 {
+    font-size: 19px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.socials li, .copyright li {
+    display: inline-flex;
+    flex-direction: column;
+    align-self: flex-end;
+}
+
+#facebook, #instagram, #twitter {
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    margin-inline: 5px;
+}
+
+#socials {
+    position: relative;
+    left: 50%;
+}
+
+#copyright {
+    font-size: 15px;
+    grid-row-start: 3;
+    position: relative;
+    left: 50%;
+}
+
+ul.socials#socials, ul.copyright#copyright {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+@media (max-width: 1074px) {
+    #footer {
+        font-size: 10px;
+    }
+
+    h3 {
+        font-size: 12px;
+    }
+
+    #phone-icon, #email-icon, #location-icon, #copyright-icon {
+        width: 10px;
+        height: 10px;
+    }
+
+    #copyright {
+        font-size: 8px;
+    }
+
+    #facebook, #instagram, #twitter {
+        width: 15px;
+        height: 15px;
+    }
+}
