@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/brunswick-bulls-website/static/css/main.4b0c4499.css",
+    "main.js": "/brunswick-bulls-website/static/js/main.469a7a4d.js",
+    "static/media/video.mp4": "/brunswick-bulls-website/static/media/video.c495c5ef9fd117e9db3e.mp4",
+    "static/media/gameschedule.png": "/brunswick-bulls-website/static/media/gameschedule.570c1aebe990cc417415.png",
+    "static/media/gameday.png": "/brunswick-bulls-website/static/media/gameday.bcd34f8c2690c464a05d.png",
+    "static/media/logo.png": "/brunswick-bulls-website/static/media/logo.a14cbcd2c4253d9d114b.png",
+    "index.html": "/brunswick-bulls-website/index.html",
+    "main.4b0c4499.css.map": "/brunswick-bulls-website/static/css/main.4b0c4499.css.map",
+    "main.469a7a4d.js.map": "/brunswick-bulls-website/static/js/main.469a7a4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0c4499.css",
+    "static/js/main.469a7a4d.js"
+  ]
+}
